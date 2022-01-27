@@ -1,0 +1,54 @@
+{
+    "Lists": [
+        {
+            "id": 1,
+            "name": "Amul Cream",
+            "price": 128
+        },
+        {
+            "id": 2,
+            "name": "Mango Icecream",
+            "price": 45
+        },
+        {
+            "id": 3,
+            "name": "Black Current Icecream",
+            "price": 89
+        },
+        {
+            "id": 4,
+            "name": "Blue Berry Icecream",
+            "price": 188
+        },
+        {
+            "id": 5,
+            "name": "StrawBerry Icecream",
+            "price": 28
+        },
+        {
+            "id": 6,
+            "name": "Amul Kulfi",
+            "price": 38
+        },
+        {
+            "id": 7,
+            "name": "Roasted Almond Icecream",
+            "price": 45
+        },
+        {
+            "id": 8,
+            "name": "Butterscotch Icecream",
+            "price": 76
+        },
+        {
+            "id": 9,
+            "name": "Rajbhog Icecream",
+            "price": 98
+        },
+        {
+            "id": 10,
+            "name": "Vanilla Icecream",
+            "price": 68
+        }
+    ]
+}
